@@ -1,2 +1,5 @@
 # IDIF_AAAI_2025
-This is not the official repository, it is my latest work. [AAAI 2025] Unveiling Multi-View Anomaly Detection: Intra-view Decoupling and Inter-view Fusion.
+Attention!!! This is not the official repository, but the latest paper I contributed to. [AAAI 2025] Unveiling Multi-View Anomaly Detection: Intra-view Decoupling and Inter-view Fusion.
+
+# official repository
+Click here: https://github.com/Kerio99/IDIF
